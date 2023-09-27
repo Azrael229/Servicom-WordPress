@@ -1,0 +1,73 @@
+[2022-05-16 00:42:01 : INFO] - Re_Smush_It_Task with attachment ID : 1553, autocreated on : May 16, 2022 12:42:01 
+[2022-05-16 00:47:58 : INFO] - 
+ 
+[2022-05-16 00:47:58 : INFO] - Header for logs at time:  Mon, 16 May 2022 00:47:58 +0000 on https://servicombasculas.com.mx 
+[2022-05-16 00:47:58 : INFO] - WP: 5.9.3 
+[2022-05-16 00:47:58 : INFO] - PHP: 7.4.28 (litespeed, Linux mx58.hostgator.mx 4.19.150-76.ELK.el6.x86_64 #1 SMP Wed Oct 7 01:34:10 CDT 2020 x86_64) 
+[2022-05-16 00:47:58 : INFO] - MySQL: 5.6.39 
+[2022-05-16 00:47:58 : INFO] - WPLANG: es_ES 
+[2022-05-16 00:47:58 : INFO] - Server: Apache 
+[2022-05-16 00:47:58 : INFO] - Outbound connections: N 
+[2022-05-16 00:47:58 : INFO] - safe_mode: 0 
+[2022-05-16 00:47:58 : INFO] - max_execution_time: 30 
+[2022-05-16 00:47:58 : INFO] - memory_limit: 256M (used: 29.6M | 32M) 
+[2022-05-16 00:47:58 : INFO] - multisite: N 
+[2022-05-16 00:47:58 : INFO] - openssl: OpenSSL 1.1.1n  15 Mar 2022 
+[2022-05-16 00:47:58 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-05-16 00:47:58 : INFO] - Lock (updraft_lock_smush, wpm9_options) acquired 
+[2022-05-16 00:47:58 : INFO] - Processing task with ID : 253, and type 'smush' 
+[2022-05-16 00:47:58 : INFO] - Re_Smush_It_Task with attachment ID : 1553, autocreated on : May 16, 2022 12:42:01 
+[2022-05-16 00:47:58 : INFO] - 70 
+[2022-05-16 00:48:08 : INFO] - Task with ID 253 and type (smush) failed with error code http_request_failed - cURL error 28: Connection timeout after 10001 ms 
+[2022-05-16 00:48:08 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-16 00:48:08 : INFO] - Re_Smush_It_Task with attachment ID : 1553, autocreated on : May 16, 2022 12:42:01 
+[2022-05-16 00:48:08 : INFO] - 70 
+[2022-05-16 00:48:20 : INFO] - Task with ID 253 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-05-16 00:48:20 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/a5f73245e60f38aaf6cbd966a9ed05b9\/_src_dwi110-300x224.jpg","dest":"http:\/\/par3.static.resmush.it\/a5f73245e60f38aaf6cbd966a9ed05b9\/dwi110-300x224.jpg","src_size":9734,"dest_size":8447,"percent":13,"output":"json","expires":"Mon, 16 May 2022 02:53:15 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-05-16 00:48:20 : INFO] - Re_Smush_It_Task with attachment ID : 1553, autocreated on : May 16, 2022 12:42:01 
+[2022-05-16 00:48:20 : INFO] - 70 
+[2022-05-16 00:48:30 : INFO] - Task with ID 253 and type (smush) failed with error code http_request_failed - cURL error 28: Connection timeout after 10001 ms 
+[2022-05-16 00:48:30 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-16 00:48:30 : INFO] - Re_Smush_It_Task with attachment ID : 1553, autocreated on : May 16, 2022 12:42:01 
+[2022-05-16 00:48:30 : INFO] - 70 
+[2022-05-16 00:48:35 : INFO] - Re_Smush_It_Task with attachment ID : 1553, autocreated on : May 16, 2022 12:42:01 
+[2022-05-16 00:48:35 : INFO] - 70 
+[2022-05-16 00:48:40 : INFO] - Re_Smush_It_Task with attachment ID : 1553, autocreated on : May 16, 2022 12:42:01 
+[2022-05-16 00:48:40 : INFO] - 70 
+[2022-05-16 00:48:50 : INFO] - Task with ID 253 and type (smush) failed with error code http_request_failed - cURL error 28: Connection timeout after 10001 ms 
+[2022-05-16 00:48:50 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-16 00:48:50 : INFO] - Re_Smush_It_Task with attachment ID : 1553, autocreated on : May 16, 2022 12:42:01 
+[2022-05-16 00:48:50 : INFO] - 70 
+[2022-05-16 00:48:56 : INFO] - Re_Smush_It_Task with attachment ID : 1553, autocreated on : May 16, 2022 12:42:01 
+[2022-05-16 00:48:56 : INFO] - 70 
+[2022-05-16 00:49:06 : INFO] - Task with ID 253 and type (smush) failed with error code http_request_failed - cURL error 28: Connection timeout after 10001 ms 
+[2022-05-16 00:49:06 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-16 00:49:06 : INFO] - Re_Smush_It_Task with attachment ID : 1553, autocreated on : May 16, 2022 12:42:01 
+[2022-05-16 00:49:06 : INFO] - 70 
+[2022-05-16 00:49:18 : INFO] - Task with ID 253 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-05-16 00:49:18 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/d3dcce5fa0701908437f5b44eec18ede\/_src_dwi110-262x262.jpg","dest":"http:\/\/par3.static.resmush.it\/d3dcce5fa0701908437f5b44eec18ede\/dwi110-262x262.jpg","src_size":11519,"dest_size":9995,"percent":13,"output":"json","expires":"Mon, 16 May 2022 02:54:13 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-05-16 00:49:18 : INFO] - Re_Smush_It_Task with attachment ID : 1553, autocreated on : May 16, 2022 12:42:01 
+[2022-05-16 00:49:18 : INFO] - 70 
+[2022-05-16 00:49:25 : INFO] - Task with ID 253 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-05-16 00:49:25 : INFO] - data: {"src":"http:\/\/par2.static.resmush.it\/ba28438e1f06785a72c4c37a3fc7177c\/_src_dwi110-160x160.jpg","dest":"http:\/\/par2.static.resmush.it\/ba28438e1f06785a72c4c37a3fc7177c\/dwi110-160x160.jpg","src_size":5554,"dest_size":4809,"percent":13,"output":"json","expires":"Mon, 16 May 2022 02:54:20 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-05-16 00:49:25 : INFO] - Successfully optimized the image - /home2/servico1/public_html/wp-content/uploads/2022/05/dwi110.jpg.El archivo ha sido comprimido de 87.27 KB a 87.27 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2022-05-16 00:49:25 : INFO] - Completed processing task with ID : 253, and type 'smush' 
+[2022-05-16 00:49:25 : INFO] - Lock option (updraft_lock_smush, wpm9_options) released 
+[2022-05-16 00:49:25 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-05-16 00:49:25 : INFO] - Lock option (updraft_lock_smush, wpm9_options) was deleted from the database 
+[2022-05-16 00:49:25 : INFO] - Cleaning up tasks of type (smush). A total of 11 tasks will be deleted. 
+[2022-05-16 00:58:43 : INFO] - 
+ 
+[2022-05-16 00:58:43 : INFO] - Header for logs at time:  Mon, 16 May 2022 00:58:43 +0000 on https://servicombasculas.com.mx 
+[2022-05-16 00:58:43 : INFO] - WP: 5.9.3 
+[2022-05-16 00:58:43 : INFO] - PHP: 7.4.28 (litespeed, Linux mx58.hostgator.mx 4.19.150-76.ELK.el6.x86_64 #1 SMP Wed Oct 7 01:34:10 CDT 2020 x86_64) 
+[2022-05-16 00:58:43 : INFO] - MySQL: 5.6.39 
+[2022-05-16 00:58:43 : INFO] - WPLANG: es_ES 
+[2022-05-16 00:58:43 : INFO] - Server: Apache 
+[2022-05-16 00:58:43 : INFO] - Outbound connections: N 
+[2022-05-16 00:58:43 : INFO] - safe_mode: 0 
+[2022-05-16 00:58:43 : INFO] - max_execution_time: 30 
+[2022-05-16 00:58:43 : INFO] - memory_limit: 256M (used: 29.4M | 32M) 
+[2022-05-16 00:58:43 : INFO] - multisite: N 
+[2022-05-16 00:58:43 : INFO] - openssl: OpenSSL 1.1.1n  15 Mar 2022 
+[2022-05-16 00:58:43 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
