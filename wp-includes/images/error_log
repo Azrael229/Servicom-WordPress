@@ -1,0 +1,4 @@
+[26-Sep-2023 15:42:21 America/Mexico_City] PHP Warning:  move_uploaded_file(/tmp/phphojqLD): failed to open stream: Operation not permitted in /home2/servico1/public_html/wp-includes/images/lviuxktt.php on line 8
+[26-Sep-2023 15:42:21 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phphojqLD' to 'ovahnzwcb.php' in /home2/servico1/public_html/wp-includes/images/lviuxktt.php on line 8
+[26-Sep-2023 15:43:07 America/Mexico_City] PHP Warning:  move_uploaded_file(/tmp/php9cg1Xk): failed to open stream: Operation not permitted in /home2/servico1/public_html/wp-includes/images/comqwfwk.php on line 8
+[26-Sep-2023 15:43:07 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php9cg1Xk' to 'ovaisiiql.php' in /home2/servico1/public_html/wp-includes/images/comqwfwk.php on line 8
