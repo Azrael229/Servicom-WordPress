@@ -1,0 +1,471 @@
+# Translation of Themes - Shopbiz Lite in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Shopbiz Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-24 19:24:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Shopbiz Lite\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Shopbiz is a powerful bootstrap Wordpress theme for business companies or individuals. Shopbiz theme which can be used for web design firms or any other corporate, business, agencies, bpo, consulting, legal, attorney, law firms, online shops, woocommerce, health, digital, medical, clinic, dental, spa, beauty, massage, gym, fitness, trainer, coach, restaurant, cafe, food, recipes, technology and any other kind of website purpose. It comes with all features these kind of shop page, blog page, Contact form seven working, custom logo, slides variation, color pallate.demo at https://themeansar.com/demo/wp/shopbiz/ , check the spa demo at https://themeansar.com/demo/wp/shopbiz/spa/"
+msgstr "Shopbiz es un potente tema para WordPress para negocios o particulares. El tema Shopbiz puede ser usado por agencias de diseño web o cualquier otra empresa, negocio, agencia, subcontrata, consultora, legal, abogados, bufete de abogados, tiendas online, WooCommerce, salud, digital, médicos, clínicas, dental, spa, belleza, masaje, gimnasios, fitness, entrenadores, restaurantes, cafés, comida, recetas, tecnología y cualquier otro tipo de propósito web. Viene con características de todo tipo como página de tienda, página de blog, funciona con Contact Form 7, logotipo personalizado, variación de diapositivas y paleta de colores. Demostración disponible en https://themeansar.com/demo/wp/shopbiz/, revisa la demostración de un spa en https://themeansar.com/demo/wp/shopbiz/spa/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Shopbiz Lite"
+msgstr "Shopbiz Lite"
+
+#: search.php:42
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tu criterio de búsqueda. Por favor, inténtalo de nuevo con otras palabras clave."
+
+#: search.php:40
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: inc/ansar/customize/ta_customize_homepage.php:68
+msgid "Enable post meta values, like author name, date, comments, etc."
+msgstr "Activar los valores meta de las entradas tales como nombre, fecha, comentarios, etc."
+
+#: inc/ansar/customize/ta_customize_homepage.php:31
+msgid "Enable Home News section"
+msgstr "Activar la sección de últimas noticias de la portada"
+
+#: inc/ansar/customize/ta_customize_homepage.php:18
+msgid "Latest News settings"
+msgstr "Ajustes de últimas noticias"
+
+#: footer.php:29 inc/ansar/customize/ta_customize_copyright.php:32
+msgid "<a href=\"https://wordpress.org\">Proudly powered by WordPress</a> | Theme: <a href=\"https://themeansar.com\" rel=\"designer\">Shopbiz Lite</a> by Themeansar"
+msgstr "<a href=\"https://es.wordpress.org\">Funciona gracias a WordPress</a> | Tema: <a href=\"https://themeansar.com\" rel=\"designer\">Shopbiz Lite</a> por Themeansar"
+
+#: inc/ansar/customize/ta_customize_copyright.php:23
+#: inc/ansar/customize/ta_customize_copyright.php:55
+msgid "Hide/Show"
+msgstr "Ocultar/Mostrar"
+
+#: inc/ansar/customize/ta_customize_header.php:13
+msgid "Header Top Bar Setting"
+msgstr "Ajustes de la barra superior de la cabecera"
+
+#: inc/ansar/customize/ta_customize_copyright.php:67
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/ansar/customize/ta_customize_homepage.php:99
+msgid "Description"
+msgstr "Descripción"
+
+#: inc/ansar/customize/ta_customize_homepage.php:54
+msgid "Overlay Color"
+msgstr "Color de superposición"
+
+#: inc/ansar/customize/ta_customize_copyright.php:131
+msgid "Google-plus"
+msgstr "Google-plus"
+
+#: inc/ansar/customize/ta_customize_copyright.php:109
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc/ansar/customize/ta_customize_copyright.php:88
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/ansar/customize/ta_customize_copyright.php:78
+#: inc/ansar/customize/ta_customize_copyright.php:99
+#: inc/ansar/customize/ta_customize_copyright.php:121
+#: inc/ansar/customize/ta_customize_copyright.php:143
+msgid "Open link in a new tab"
+msgstr "Abrir enlace en una pestaña nueva"
+
+#: inc/ansar/customize/ta_customize_homepage.php:43
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: 404.php:37
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Lo sentimos, pero la página que estás buscando no existe."
+
+#: inc/ansar/customize/plugin_recommend.php:17
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: inc/ansar/customize/plugin_recommend.php:16
+msgid "Activate"
+msgstr "Activado"
+
+#: inc/ansar/customize/plugin_recommend.php:15
+msgid "Install and Activate"
+msgstr "Instalar y activar"
+
+#: inc/ansar/customize/plugin_recommend.php:14
+msgid "Recommended Plugin"
+msgstr "Plugin recomendado"
+
+#: inc/ansar/customize/plugin_recommend.php:13
+msgid "Recommended Actions"
+msgstr "Acciones recomendadas"
+
+#: inc/ansar/customizer-notify/shopbiz-customizer-notify.php:112
+msgid "Activating"
+msgstr "Activando"
+
+#. Template Name of the theme
+msgid "Homepage"
+msgstr "Página de inicio"
+
+#: functions.php:78 header.php:44
+msgid "Social Links Menu"
+msgstr "Menú de enlaces sociales"
+
+#: functions.php:77
+msgid "Top Menu"
+msgstr "Menú superior"
+
+#: lib/theme-option/view-general.php:13
+msgid "Shopbiz"
+msgstr "Shopbiz"
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:495
+msgid "Easy to use, Fully Customizable, Unique options"
+msgstr "Fácil de usar, totalmente personalizable y opciones únicas"
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:449
+msgid "Get More Options with Shopbiz Pro!"
+msgstr "¡Obtén más opciones con Shopbiz Pro!"
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:441
+msgid "Premium Support"
+msgstr "Soporte premium"
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:439
+msgid "Your Feedback"
+msgstr "Tu respuesta"
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:437
+msgid "Pro Demo"
+msgstr "Demo de Pro"
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:433
+msgid "shopbiz Usefull Links"
+msgstr "Enlaces de interés de shopbiz"
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:414
+msgid "Visit to Customizer Settings:"
+msgstr "Visita los ajustes del personalizador:"
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:406
+msgid "Site Button"
+msgstr "Botón del sitio"
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:394
+msgid "Sidebar Options"
+msgstr "Opciones de barra lateral"
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:388
+msgid "Set Colors"
+msgstr "Configurar colores"
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:383
+msgid "Upload Logo"
+msgstr "Subir logo"
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:374
+msgid "Get More Options with shopbiz Pro!"
+msgstr "¡Obtén más opciones con shopbiz Pro!"
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:360
+msgid "Submit Ticket"
+msgstr "Enviar Ticket"
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:357
+msgid "We start with what the customer needs and we work backwards. You're absolutely free to contact us and shopbiz team will be happy to help you."
+msgstr "Empezamos con las necesidades del cliente y trabajamos partiendo de ello. Tienes absoluta libertad para contactar con nosotros y el equipo de shopbiz estará encantado de poder ayudarte."
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:351
+msgid "Customer Support"
+msgstr "Soporte al cliente"
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:334
+msgid "Visit Us"
+msgstr "Visítanos"
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:332
+msgid "Want to know how it works, take a look on this and get whole knowledge about shopbiz. Learn shopbiz"
+msgstr "Si quieres saber cómo funciona, echa un vistazo y conócelo todo sobre shopbiz. Aprende sobre shopbiz"
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:328
+msgid "Learn More"
+msgstr "Saber más"
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:311
+msgid "Go to Cutomizer Panel"
+msgstr "Ve al panel del personalizador"
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:307
+msgid "Click the below button and install ICYCLUB plugin in customizer Setting for full advatages frontpage and many other theme feature"
+msgstr "Haz clic en el botón inferior e instala el plugin ICYCLUB en los ajustes del personalizador para obtener todas las ventajas en la página de inicio y otras muchas características del tema."
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:300
+msgid "Install Plugin"
+msgstr "Instalar el plugin"
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:179
+msgid "Welcome"
+msgstr "Bienvenido"
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:147
+msgid "shopbiz"
+msgstr "shopbiz"
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:146
+msgid "Shopbiz Options"
+msgstr "Opciones de Shopbiz"
+
+#. translators: %s theme name
+#: lib/theme-option/class-shopbiz-admin-settings.php:48
+msgid "Get started with %s"
+msgstr "Empieza con %s"
+
+#. translators: %1$s: theme name, %2$s link
+#: lib/theme-option/class-shopbiz-admin-settings.php:40
+msgid "Visit shopbiz page to take full advantage of theme."
+msgstr "Visita la página de shopbiz para obtener todas las ventajas del tema."
+
+#. translators: %1$s: theme name, %2$s theme version
+#: lib/theme-option/class-shopbiz-admin-settings.php:34
+msgid "Thanks For Choosing %1$s - Version %2$s"
+msgstr "Gracias Por Elegir %1$s - Versión %2$s"
+
+#: inc/ansar/customize/ta_customize_homepage.php:7
+msgid "Homepage section settings"
+msgstr "Ajustes de la sección de la página de inicio"
+
+#: inc/ansar/customize/ta_customize_header.php:37
+msgid "Info Two:"
+msgstr "Info dos:"
+
+#: inc/ansar/customize/ta_customize_header.php:24
+msgid "Info One:"
+msgstr "Info uno:"
+
+#: inc/ansar/customize/ta_customize_header.php:9
+msgid "Header Settings"
+msgstr "Ajustes de la cabecera"
+
+#: lib/theme-option/class-shopbiz-admin-settings.php:400
+msgid "Social Icon"
+msgstr "Icono social"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Página de ancho completo"
+
+#: product-searchform.php:3
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar por:"
+
+#: product-searchform.php:3
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr "Buscar productos&hellip;"
+
+#. translators: %s: Name of current post
+#: inc/ansar/template-tags.php:71
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: inc/ansar/template-tags.php:64
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: inc/ansar/template-tags.php:64
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#: inc/ansar/template-tags.php:64
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: inc/ansar/template-tags.php:58
+msgid "Tagged %1$s"
+msgstr "Etiquetado %1$s"
+
+#: inc/ansar/template-tags.php:52
+msgid "Posted in %1$s"
+msgstr "Publicado en %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/ansar/template-tags.php:50 inc/ansar/template-tags.php:56
+msgid ", "
+msgstr ", "
+
+#: inc/ansar/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#: inc/ansar/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicado el %s"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: content.php:25 sections/home-blog.php:96
+msgid "by"
+msgstr "por"
+
+#: 404.php:17
+msgid "404"
+msgstr "404"
+
+#: single.php:49
+msgid "By"
+msgstr "Por"
+
+#: searchform.php:3
+msgid "Type to search"
+msgstr "Escribe para buscar"
+
+#: search.php:36
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: functions.php:149
+msgid "Footer Widget Area"
+msgstr "Área de widgets del pie de página"
+
+#: functions.php:139
+msgid "Sidebar Widget Area"
+msgstr "Área de widgets de la barra lateral"
+
+#: inc/ansar/customize/ta_customize_homepage.php:84
+msgid "Title"
+msgstr "Título"
+
+#: inc/ansar/customize/ta_customize_homepage.php:77 sections/home-blog.php:26
+msgid "Latest News"
+msgstr "Últimas noticias"
+
+#: inc/ansar/customize/ta_customize_copyright.php:44
+msgid "Social Link"
+msgstr "Enlaces sociale"
+
+#: inc/ansar/customize/ta_customize_copyright.php:11
+#: inc/ansar/customize/ta_customize_copyright.php:36
+msgid "Copyright text"
+msgstr "Texto de copyright"
+
+#: inc/ansar/customize/ta_customize_copyright.php:7
+msgid "Footer Settings"
+msgstr "Ajustes del pie de página"
+
+#: functions.php:76
+msgid "Primary menu"
+msgstr "Menú principal"
+
+#: content.php:29 templates/fullwidth.php:33
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: functions.php:185
+msgid "Read More"
+msgstr "Leer más"
+
+#: comments.php:83
+msgid "Leave a Reply"
+msgstr "Deja una respuesta"
+
+#: comments.php:80
+msgid "Send Message"
+msgstr "Enviar mensaje"
+
+#: comments.php:78
+msgid "Log out?"
+msgstr "¿Salir?"
+
+#: comments.php:78
+msgid "Logged in as "
+msgstr "Identificados como"
+
+#: comments.php:77
+msgid "Message:"
+msgstr "Mensaje:"
+
+#: comments.php:64
+msgid "Email:"
+msgstr "Correo electrónico:"
+
+#: comments.php:63
+msgid "Name:"
+msgstr "Nombre:"
+
+#: comments.php:56
+msgid "to post a comment"
+msgstr "para publicar un comentario."
+
+#: comments.php:56
+msgid "logged in"
+msgstr "conectado"
+
+#: comments.php:56
+msgid "You must be"
+msgstr "Debes ser"
+
+#: comments.php:46
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios siguientes &rarr;"
+
+#: comments.php:45
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios anteriores"
+
+#: comments.php:44
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:29
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de moderación."
+
+#: comments.php:14
+msgid "Reply"
+msgstr "Contestar"
+
+#: comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Esta entrada está protegida. Introduce la contraseña para ver los comentarios."
+
+#: 404.php:39
+msgid "Go Back"
+msgstr "Volver"
+
+#: 404.php:34
+msgid "Oops! Page not found"
+msgstr "¡Vaya! Página no encontrada"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "themeansar"
+msgstr "themeansar"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://themeansar.com/"
+msgstr "https://themeansar.com/"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://themeansar.com/free-themes/shopbiz"
+msgstr "https://themeansar.com/free-themes/shopbiz"
