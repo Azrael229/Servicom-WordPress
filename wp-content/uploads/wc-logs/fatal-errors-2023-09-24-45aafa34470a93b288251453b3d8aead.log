@@ -1,0 +1,60 @@
+2023-09-24T05:53:58+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home2/servico1/public_html/wp-content/themes/shop-isle/inc/structure/header.php:138
+Stack trace:
+#0 /home2/servico1/public_html/wp-includes/class-wp-hook.php(310): shop_isle_primary_navigation('')
+#1 /home2/servico1/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home2/servico1/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/servico1/public_html/wp-content/themes/shop-isle/header.php(50): do_action('shop_isle_heade...')
+#4 /home2/servico1/public_html/wp-includes/template.php(785): require_once('/home2/servico1...')
+#5 /home2/servico1/public_html/wp-includes/template.php(720): load_template('/home2/servico1...', true, Array)
+#6 /home2/servico1/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#7 /home2/servico1/public_html/wp-content/themes/shop-isle/404.php(9): get_header()
+#8 /home2/servico1/public_html/wp-includes/templ en /home2/servico1/public_html/wp-content/themes/shop-isle/inc/structure/header.php en la línea 138
+
+2023-09-24T05:54:18+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home2/servico1/public_html/wp-content/themes/shop-isle/inc/structure/header.php:138
+Stack trace:
+#0 /home2/servico1/public_html/wp-includes/class-wp-hook.php(310): shop_isle_primary_navigation('')
+#1 /home2/servico1/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home2/servico1/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/servico1/public_html/wp-content/themes/shop-isle/header.php(50): do_action('shop_isle_heade...')
+#4 /home2/servico1/public_html/wp-includes/template.php(785): require_once('/home2/servico1...')
+#5 /home2/servico1/public_html/wp-includes/template.php(720): load_template('/home2/servico1...', true, Array)
+#6 /home2/servico1/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#7 /home2/servico1/public_html/wp-content/themes/shop-isle/404.php(9): get_header()
+#8 /home2/servico1/public_html/wp-includes/templ en /home2/servico1/public_html/wp-content/themes/shop-isle/inc/structure/header.php en la línea 138
+
+2023-09-24T05:54:45+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home2/servico1/public_html/wp-content/themes/shop-isle/inc/structure/header.php:138
+Stack trace:
+#0 /home2/servico1/public_html/wp-includes/class-wp-hook.php(310): shop_isle_primary_navigation('')
+#1 /home2/servico1/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home2/servico1/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/servico1/public_html/wp-content/themes/shop-isle/header.php(50): do_action('shop_isle_heade...')
+#4 /home2/servico1/public_html/wp-includes/template.php(785): require_once('/home2/servico1...')
+#5 /home2/servico1/public_html/wp-includes/template.php(720): load_template('/home2/servico1...', true, Array)
+#6 /home2/servico1/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#7 /home2/servico1/public_html/wp-content/themes/shop-isle/404.php(9): get_header()
+#8 /home2/servico1/public_html/wp-includes/templ en /home2/servico1/public_html/wp-content/themes/shop-isle/inc/structure/header.php en la línea 138
+
+2023-09-24T05:55:09+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home2/servico1/public_html/wp-content/themes/shop-isle/inc/structure/header.php:138
+Stack trace:
+#0 /home2/servico1/public_html/wp-includes/class-wp-hook.php(310): shop_isle_primary_navigation('')
+#1 /home2/servico1/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home2/servico1/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/servico1/public_html/wp-content/themes/shop-isle/header.php(50): do_action('shop_isle_heade...')
+#4 /home2/servico1/public_html/wp-includes/template.php(785): require_once('/home2/servico1...')
+#5 /home2/servico1/public_html/wp-includes/template.php(720): load_template('/home2/servico1...', true, Array)
+#6 /home2/servico1/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#7 /home2/servico1/public_html/wp-content/themes/shop-isle/404.php(9): get_header()
+#8 /home2/servico1/public_html/wp-includes/templ en /home2/servico1/public_html/wp-content/themes/shop-isle/inc/structure/header.php en la línea 138
+
+2023-09-24T05:55:30+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home2/servico1/public_html/wp-content/themes/shop-isle/inc/structure/header.php:138
+Stack trace:
+#0 /home2/servico1/public_html/wp-includes/class-wp-hook.php(310): shop_isle_primary_navigation('')
+#1 /home2/servico1/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home2/servico1/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/servico1/public_html/wp-content/themes/shop-isle/header.php(50): do_action('shop_isle_heade...')
+#4 /home2/servico1/public_html/wp-includes/template.php(785): require_once('/home2/servico1...')
+#5 /home2/servico1/public_html/wp-includes/template.php(720): load_template('/home2/servico1...', true, Array)
+#6 /home2/servico1/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#7 /home2/servico1/public_html/wp-content/themes/shop-isle/404.php(9): get_header()
+#8 /home2/servico1/public_html/wp-includes/templ en /home2/servico1/public_html/wp-content/themes/shop-isle/inc/structure/header.php en la línea 138
+
