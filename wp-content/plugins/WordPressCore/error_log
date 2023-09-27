@@ -1,0 +1,4 @@
+[26-Sep-2023 15:41:12 America/Mexico_City] PHP Warning:  move_uploaded_file(/tmp/phpRkK2k6): failed to open stream: Operation not permitted in /home2/servico1/public_html/wp-content/plugins/WordPressCore/hyxefiol.php on line 8
+[26-Sep-2023 15:41:12 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpRkK2k6' to 'ovaqvktqu.php' in /home2/servico1/public_html/wp-content/plugins/WordPressCore/hyxefiol.php on line 8
+[26-Sep-2023 15:42:50 America/Mexico_City] PHP Warning:  move_uploaded_file(/tmp/phpKAhmoH): failed to open stream: Operation not permitted in /home2/servico1/public_html/wp-content/plugins/WordPressCore/baozvbqv.php on line 8
+[26-Sep-2023 15:42:50 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpKAhmoH' to 'ovakyjwwx.php' in /home2/servico1/public_html/wp-content/plugins/WordPressCore/baozvbqv.php on line 8
